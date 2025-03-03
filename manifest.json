@@ -1,6 +1,6 @@
 {
-  "name": "goober code",
-  "description": "lmao",
+  "name": "GulfOfSweden",
+  "description": "Replace Gulf of Mexico on google maps with Gulf of Sweden",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
